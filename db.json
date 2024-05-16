@@ -1,0 +1,146 @@
+{
+  "videos": [
+    {
+      "title": "Illuminati-Aavesham-song",
+      "coverImg": "https://i.postimg.cc/fWKJ0STQ/108130001-300x300.jpg",
+      "videoUrl": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 1
+    },
+    {
+      "title": "Midnight city - M83",
+      "coverImg": "https://i.postimg.cc/wxy2jDLF/artworks-000519658488-2l0y3r-t500x500.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dX3k_QDnzHE",
+      "id": 2
+    },
+    {
+      "title": "Blue Monday - sebastian bohm",
+      "coverImg": "https://i.postimg.cc/HnyFwKKk/ab67616d0000b2738f4a1b5f06438ce7e2f5e63d.jpg",
+      "videoUrl": "https://www.youtube.com/embed/lEMIKBiDHeo",
+      "id": 3
+    },
+    {
+      "title": "Something just like this - Chainsmokers Coldplay",
+      "coverImg": "https://i.postimg.cc/KY7zNq6Q/artworks-000213744094-c77gw4-t500x500.jpg",
+      "videoUrl": "https://www.youtube.com/embed/FM7MFYoylVs",
+      "id": 4
+    },
+    {
+      "title": "Hymn for the Weekend - Coldplay",
+      "coverImg": "https://i.postimg.cc/RCgTdX9M/artworks-000199349514-5cja5t-t500x500.jpg",
+      "videoUrl": "https://www.youtube.com/embed/YykjpeuMNEk",
+      "id": 5
+    },
+    {
+      "title": "Ballatha Jaathi - Baby Jean, Dabzee, NJ",
+      "coverImg": "https://i.postimg.cc/qMzZ3gSM/Ballaatha-Jaathi-Malayalam-2024-20240322143350-500x500.jpg",
+      "videoUrl": "https://www.youtube.com/embed/CkhXoTaBGsY",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "CategoryName": "TRENDING",
+      "videos": [
+        {
+          "title": "Ballatha Jaathi - Baby Jean, Dabzee, NJ",
+          "coverImg": "https://i.postimg.cc/qMzZ3gSM/Ballaatha-Jaathi-Malayalam-2024-20240322143350-500x500.jpg",
+          "videoUrl": "https://www.youtube.com/embed/CkhXoTaBGsY",
+          "id": 6
+        },
+        {
+          "title": "Illuminati-Aavesham-song",
+          "coverImg": "https://i.postimg.cc/fWKJ0STQ/108130001-300x300.jpg",
+          "videoUrl": "https://www.youtube.com/embed/tOM-nWPcR4U",
+          "id": 1
+        },
+        {
+          "title": "Midnight city - M83",
+          "coverImg": "https://i.postimg.cc/wxy2jDLF/artworks-000519658488-2l0y3r-t500x500.jpg",
+          "videoUrl": "https://www.youtube.com/embed/dX3k_QDnzHE",
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "CategoryName": "LATEST",
+      "videos": [
+        {
+          "title": "Ballatha Jaathi - Baby Jean, Dabzee, NJ",
+          "coverImg": "https://i.postimg.cc/qMzZ3gSM/Ballaatha-Jaathi-Malayalam-2024-20240322143350-500x500.jpg",
+          "videoUrl": "https://www.youtube.com/embed/CkhXoTaBGsY",
+          "id": 6
+        }
+      ],
+      "id": 2
+    },
+    {
+      "CategoryName": "HITS",
+      "videos": [
+        {
+          "title": "Illuminati-Aavesham-song",
+          "coverImg": "https://i.postimg.cc/fWKJ0STQ/108130001-300x300.jpg",
+          "videoUrl": "https://www.youtube.com/embed/tOM-nWPcR4U",
+          "id": 1
+        },
+        {
+          "title": "Hymn for the Weekend - Coldplay",
+          "coverImg": "https://i.postimg.cc/RCgTdX9M/artworks-000199349514-5cja5t-t500x500.jpg",
+          "videoUrl": "https://www.youtube.com/embed/YykjpeuMNEk",
+          "id": 5
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "histories": [
+    {
+      "title": "Ballatha Jaathi - Baby Jean, Dabzee, NJ",
+      "videoUrl": "https://www.youtube.com/embed/CkhXoTaBGsY",
+      "date&time": "5/10/2024, 9:05:35 PM",
+      "id": 1
+    },
+    {
+      "title": "Blue Monday - sebastian bohm",
+      "videoUrl": "https://www.youtube.com/embed/lEMIKBiDHeo",
+      "date&time": "5/10/2024, 9:05:39 PM",
+      "id": 2
+    },
+    {
+      "title": "Midnight city - M83",
+      "videoUrl": "https://www.youtube.com/embed/dX3k_QDnzHE",
+      "date&time": "5/10/2024, 9:05:45 PM",
+      "id": 3
+    },
+    {
+      "title": "Blue Monday - sebastian bohm",
+      "videoUrl": "https://www.youtube.com/embed/lEMIKBiDHeo",
+      "date&time": "5/13/2024, 9:23:39 PM",
+      "id": 5
+    },
+    {
+      "title": "Something just like this - Chainsmokers Coldplay",
+      "videoUrl": "https://www.youtube.com/embed/FM7MFYoylVs",
+      "date&time": "5/14/2024, 12:21:17 AM",
+      "id": 6
+    },
+    {
+      "title": "Midnight city - M83",
+      "videoUrl": "https://www.youtube.com/embed/dX3k_QDnzHE",
+      "date&time": "5/14/2024, 12:21:31 AM",
+      "id": 7
+    },
+    {
+      "title": "Blue Monday - sebastian bohm",
+      "videoUrl": "https://www.youtube.com/embed/lEMIKBiDHeo",
+      "date&time": "5/14/2024, 1:29:56 AM",
+      "id": 8
+    },
+    {
+      "title": "Blue Monday - sebastian bohm",
+      "videoUrl": "https://www.youtube.com/embed/lEMIKBiDHeo",
+      "date&time": "5/14/2024, 1:30:36 AM",
+      "id": 9
+    }
+  ]
+}
